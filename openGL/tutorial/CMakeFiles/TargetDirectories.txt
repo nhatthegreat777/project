@@ -1,3 +1,0 @@
-/home/nate/project/openGL/tutorial/CMakeFiles/main.dir
-/home/nate/project/openGL/tutorial/CMakeFiles/edit_cache.dir
-/home/nate/project/openGL/tutorial/CMakeFiles/rebuild_cache.dir
